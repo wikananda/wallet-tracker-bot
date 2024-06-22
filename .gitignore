@@ -1,0 +1,14 @@
+# Ignore folders
+.cache/
+.local/
+.pythonlibs/
+.upm/
+__pycache__/
+
+# Ignore files
+.breakpoints
+.replit
+replit.nix
+replit_zip_error_log.txt
+poetry.lock
+pyproject.toml
